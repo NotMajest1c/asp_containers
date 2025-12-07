@@ -19,4 +19,8 @@ This ensures automatic balancing in a minimal and efficient way.
 
 # 5. Running the Code
 
-Run the program using the command python containers.py. The script will run the test scenarios.
+Run the program using the command 
+```bash
+python containers.py
+```
+The script will run the test scenarios.
